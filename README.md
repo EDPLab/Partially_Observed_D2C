@@ -1,4 +1,4 @@
-# pod2c
+#POD2C
 Partially-Observed Decoupled Data-based Control implementation on MuJoCo 200 Win64
 
 ------
@@ -10,3 +10,5 @@ The algorithm has two steps:
 Requirements
 - Matlab 2018 or later
 - MuJoCo 200 Windows x64 version
+
+  Authors: Ran Wang, Raman Goyal. 
