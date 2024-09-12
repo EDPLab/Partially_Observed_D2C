@@ -11,4 +11,6 @@ Requirements
 - Matlab 2018 or later
 - MuJoCo 200 Windows x64 version
 
-  Authors: Ran Wang, Raman Goyal. 
+  Authors: Ran Wang, Raman Goyal.
+
+  The algorithm is the implementation of the work in the paper "Information State based Reinforcement Learning for the Control of Partially Observed Nonlinear Systems" Arxiv: https://arxiv.org/pdf/2107.08086
